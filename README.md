@@ -26,6 +26,7 @@ $ npm run start:prod
 ## Desarrollo
 
 Configuración del .env
+
 ![env](/assets/imageenv.png)
 
 Creación de la tabla con el ORM Prisma
