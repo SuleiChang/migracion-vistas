@@ -1,4 +1,4 @@
-# Laboratorio Empresa - Migraciones
+# Laboratorio Empresa - Vista de datos de la BD
 
 ## Description
 
