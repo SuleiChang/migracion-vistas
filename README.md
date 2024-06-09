@@ -33,19 +33,9 @@ Creación de la tabla con el ORM Prisma
 
 ![Uso del Orm para la BD](/assets/image.png)
 
-Migración ejecutada
+Vistas de los datos de la BD
 
-![comando migracion](/assets/migracion.png)
+![image](https://github.com/SuleiChang/migracion-vistas/assets/170781882/56bcb499-e494-47ab-b111-190a7f815073)
+![image](https://github.com/SuleiChang/migracion-vistas/assets/170781882/2be30a37-9734-47af-a51e-78736a111f63)
+![image](https://github.com/SuleiChang/migracion-vistas/assets/170781882/4f03275e-6e3d-4569-9ef9-d6fd80af4c3a)
 
-![base de datos](/assets/bd.png)
-
-Inserción de Datos
-
-![insercion](/assets/insercion.png)
-![tabla](/assets/tabla.png)
-
-Nueva Migración
-
-![change](/assets/change.png)
-![change text](/assets/change-person.png)
-![null](/assets/null.png)
